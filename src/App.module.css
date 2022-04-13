@@ -1,0 +1,4 @@
+.userAndInfo{
+    display: flex;
+    justify-content: space-between;
+}
